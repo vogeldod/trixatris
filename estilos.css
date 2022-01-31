@@ -261,7 +261,7 @@ p {
 @media (max-width: 480) {
     body {
         height: 100vh;
-        font-size: 0.6rem;
+        font-size: 0.4rem;
     }
     .center {
         text-align: center;
@@ -313,8 +313,8 @@ p {
     }
     
     .imagenes {
-        border-radius: 3mp;
-        border: solid 5px rgb(219, 186, 219);
+        border-radius: 3mm;
+        border: solid 1px rgb(219, 186, 219);
     }
     
     .menuFlex {
@@ -330,7 +330,7 @@ p {
     ul li {
         background-color: rgb(250, 208, 187);
         color: black;
-        padding: 10px;
+        padding: 1px;
         text-align: center;
         align-items: center;
     }
