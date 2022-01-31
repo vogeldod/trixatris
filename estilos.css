@@ -297,6 +297,7 @@ p {
         "pie";
     
         grid-template-columns: 100%;
+        grid-template-rows: 2fr 1fr 4fr 4fr 2fr;
     }
     
     /*clases*/
@@ -330,7 +331,6 @@ p {
     ul li {
         background-color: rgb(250, 208, 187);
         color: black;
-        padding: 1px;
         text-align: center;
         align-items: center;
     }
@@ -342,7 +342,6 @@ p {
     
     footer {
         background-color: rgb(219,186,219);
-        padding: 20px;
     }
     
     article {
